@@ -9,11 +9,11 @@
 
 The **Lattice Theory** [github organization](https://help.github.com/articles/about-organizations/) was initially created during the ALH-2018 conference to honor of the long and productive careers of three mathematicians:
 
-+ [Ralph Freese](https://www.math.hawaii.edu/~ralph))
++ [Ralph Freese](https://www.math.hawaii.edu/~ralph)
 
 + [Bill Lampe](https://www.math.hawaii.edu/~bill)  
 
-+ [JB Nation](https://www.math.hawaii.edu/~bill))
++ [JB Nation](https://www.math.hawaii.edu/~bill)
 
 
 <!-- ## Biographies
