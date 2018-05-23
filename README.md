@@ -1,5 +1,3 @@
-# LatticeTheory.org
-
 <!-- <img src="assets/img/Lampe.jpg" alt="Bill Lampe" style="height: 200px"/>
 <img src="assets/img/Nation.jpg" alt="JB Nation" style="height: 200px"/>
 <img src="assets/img/Freese.jpeg" alt="Ralph Freese" style="height: 200px"/> -->
