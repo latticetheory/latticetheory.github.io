@@ -12,7 +12,7 @@ Then in 1995, while in Australia on a university work exchange, he solved a 25-y
 
 ## Bibliographic Data
 
-As of May 2018, [MathSciNet](https://mathscinet-ams-org.colorado.idm.oclc.org/mathscinet/search/publications.html?pg1=INDI&s1=194830&sort=Newest&vfpref=html&r=1&extend=1) has reviewed 74 publications by JB Nation.  The file [Nation.bib](../assets/Nation.bib) contains the BibTeX data for all of these works.
+As of May 2018, [MathSciNet](https://mathscinet-ams-org.colorado.idm.oclc.org/mathscinet/search/publications.html?pg1=INDI&s1=194830&sort=Newest&vfpref=html&r=1&extend=1) has reviewed 74 publications by JB Nation.  The file [Nation.bib](Nation.bib) contains the BibTeX data for all of these works.
 
 
 MR Author ID:	129675  
