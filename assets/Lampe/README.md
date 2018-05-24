@@ -13,10 +13,11 @@ As of May 2018,
 **Total Related Publications:** 2
 **Total Citations:** 106
 
-Collaborator1  |  Collaborator2 | 
-William A. Lampe | coauthored with Brian A. Davey|	MR1743633|
-Brian A. Davey	| coauthored with Péter Pál Pálf MR1290156|
-|Péter Pál Pálfy| coauthored with | Paul Erdős1	MR0954338|
+|Coauthor 1  |  Coauthor2 | 
+| --- | --- |
+|William A. Lampe | coauthored with Brian A. Davey|	|MR1743633|
+|Brian A. Davey	| coauthored with Péter Pál Pálf |MR1290156|
+|Péter Pál Pálfy| coauthored with | Paul Erdős1	|MR0954338|
 
 
 ### Coauthors
