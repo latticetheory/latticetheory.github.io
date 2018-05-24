@@ -17,8 +17,8 @@ As of May 2018,
 
 |Coauthor 1  |  Coauthor2 | MathSciNet record number|
 | ---        |        --- |--- |
-|William A. Lampe |coauthored with Brian A. Davey|	|MR1743633|
-|Brian A. Davey	| coauthored with Péter Pál Pálfy | MR1290156|
+|William A. Lampe |coauthored with Brian A. Davey |MR1743633|
+|Brian A. Davey	| coauthored with Péter Pál Pálfy |MR1290156|
 |Péter Pál Pálfy| coauthored with Paul Erdős	|MR0954338|
 
 
