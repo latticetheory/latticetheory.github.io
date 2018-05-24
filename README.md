@@ -7,12 +7,11 @@
 
 The **Lattice Theory** [github organization](https://help.github.com/articles/about-organizations/) was initially created during the ALH-2018 conference to honor of the long and productive careers of three mathematicians:
 
+### Homepages
+
 + [Ralph Freese](https://www.math.hawaii.edu/~ralph)
-
 + [Bill Lampe](https://www.math.hawaii.edu/~bill)  
-
-+ [JB Nation](https://www.math.hawaii.edu/~bill)
-
++ [JB Nation](https://www.math.hawaii.edu/~jb)
 
 <!-- ## Biographies
 
@@ -20,7 +19,7 @@ Both Freese and Nation earned their PhD's under the advisment of [Robert Dilwort
 
 Lampe earned his PhD at Penn State under the advisement of Frink and Gratzer. -->
 
-## Related Pages
+### Related Pages
 
 + [Freese](assets/Freese/README.md),
   [Lampe](assets/Lampe/README.md), [Nation](assets/Nation/README.md) on latticetheory.org.

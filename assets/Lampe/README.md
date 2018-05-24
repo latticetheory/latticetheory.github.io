@@ -1,6 +1,6 @@
 ## Bill Lampe
 
-<img src="Lampe.jpeg" alt="Bill Lampe" style="width: 600px"/>
+<img src="Lampe.jpg" alt="Bill Lampe" style="width: 600px"/>
 
 ## Bibliographic Data
 
