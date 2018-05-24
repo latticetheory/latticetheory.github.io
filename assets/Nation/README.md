@@ -1,6 +1,6 @@
 # J.B. Nation
 
-<img src="assets/img/Nation.jpg" alt="JB Nation" style="width: 600px"/>
+<img src="Nation.jpg" alt="JB Nation" style="width: 600px"/>
 
 
 In 2010, Sheila Sarhangi wrote the following for [Honolulu Magazine](http://www.honolulumagazine.com/Honolulu-Magazine/February-2010/Our-Geniuses/) about JB:
