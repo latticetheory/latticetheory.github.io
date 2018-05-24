@@ -9,15 +9,15 @@ As of May 2018,
 
 **MR Author ID:** 109700  
 **Earliest Indexed Publication:** 1967  
-**Total Publications:** 25
-**Total Related Publications:** 2
+**Total Publications:** 25  
+**Total Related Publications:** 2  
 **Total Citations:** 106
 
 ### Erdos Number
 
 |Coauthor 1  |  Coauthor2 | MathSciNet record number|
 | ---        |        --- |--- |
-|William A. Lampe | coauthored with Brian A. Davey|	|MR1743633|
+|William A. Lampe |coauthored with Brian A. Davey|	|MR1743633|
 |Brian A. Davey	| coauthored with Péter Pál Pálfy | MR1290156|
 |Péter Pál Pálfy| coauthored with Paul Erdős	|MR0954338|
 
