@@ -8,7 +8,7 @@ As of May 2018, [MathSciNet](https://mathscinet-ams-org.colorado.idm.oclc.org/ma
 
 ### BibTeX Entries
 
-```bibtex
+````
 @article {MR3602782,
     AUTHOR = {Freese, Ralph and McKenzie, Ralph},
      TITLE = {Maltsev families of varieties closed under join or {M}altsev
@@ -26,7 +26,7 @@ MRREVIEWER = {Joel Berman},
        DOI = {10.1007/s00012-016-0420-1},
        URL = {https://doi-org.colorado.idm.oclc.org/10.1007/s00012-016-0420-1},
 }
-		
+
 @incollection {MR3645048,
     AUTHOR = {Freese, R. and Nation, J. B.},
      TITLE = {Free and finitely presented lattices},
@@ -38,7 +38,7 @@ MRREVIEWER = {Joel Berman},
   MRNUMBER = {3645048},
 MRREVIEWER = {Joel Berman},
 }
-		
+
 @article {MR3353951,
     AUTHOR = {Freese, Ralph and Nation, J. B.},
      TITLE = {Projective ordinal sums of lattices and isotone sections},
@@ -56,7 +56,7 @@ MRREVIEWER = {R. Piziak},
        DOI = {10.1007/s11083-014-9329-5},
        URL = {https://doi-org.colorado.idm.oclc.org/10.1007/s11083-014-9329-5},
 }
-		
+
 @article {MR3127978,
     AUTHOR = {Freese, Ralph},
      TITLE = {Equations implying congruence {$n$}-permutability and
@@ -74,7 +74,7 @@ MRREVIEWER = {Keith A. Kearnes},
        DOI = {10.1007/s00012-013-0256-x},
        URL = {https://doi-org.colorado.idm.oclc.org/10.1007/s00012-013-0256-x},
 }
-		
+
 @article {MR2494469,
     AUTHOR = {Freese, Ralph and Valeriote, Matthew A.},
      TITLE = {On the complexity of some {M}altsev conditions},
@@ -91,7 +91,7 @@ MRREVIEWER = {Clifford H. Bergman},
        DOI = {10.1142/S0218196709004956},
        URL = {https://doi-org.colorado.idm.oclc.org/10.1142/S0218196709004956},
 }
-		
+
 @article {MR2470585,
     AUTHOR = {Freese, Ralph},
      TITLE = {Computing congruences efficiently},
@@ -108,7 +108,7 @@ MRREVIEWER = {Clifford H. Bergman},
        DOI = {10.1007/s00012-008-2073-1},
        URL = {https://doi-org.colorado.idm.oclc.org/10.1007/s00012-008-2073-1},
 }
-		
+
 @article {MR2280221,
     AUTHOR = {Freese, Ralph and McNulty, George and Nation, J. B.},
      TITLE = {A modular inherently nonfinitely based lattice},
@@ -126,7 +126,7 @@ MRREVIEWER = {Jaroslav Je\v zek},
        DOI = {10.1007/s00012-006-1986-9},
        URL = {https://doi-org.colorado.idm.oclc.org/10.1007/s00012-006-1986-9},
 }
-		
+
 @article {MR2161658,
     AUTHOR = {Clark, David M. and Davey, Brian A. and Freese, Ralph S. and
               Jackson, Marcel},
