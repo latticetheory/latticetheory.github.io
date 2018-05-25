@@ -13,25 +13,28 @@ As of May 2018,
 **Total Related Publications:** 2  
 **Total Citations:** 106
 
+---
 
 ### Coauthors
 
-Brodhead, Katie
-Davey, Brian A.
-Freese, Ralph S.
-Grätzer, George
-Idziak, Paweł M.
-Khan, Mushfeq
-Kjos-Hanssen, Bjørn
-McNulty, George F.
-Myers, Dale
-Nguyen, Paul Kim Long V.
-Shore, Richard A.
-Sichler, Jiří
-Taylor, Walter F.
-Trnková, Věra
-Šedivá, Věra (2)
-Willard, Ross
++ Brodhead, Katie
++ Davey, Brian A.
++ Freese, Ralph S.
++ Grätzer, George
++ Idziak, Paweł M.
++ Khan, Mushfeq
++ Kjos-Hanssen, Bjørn
++ McNulty, George F.
++ Myers, Dale
++ Nguyen, Paul Kim Long V.
++ Shore, Richard A.
++ Sichler, Jiří
++ Taylor, Walter F.
++ Trnková, Věra
++ Šedivá, Věra (2)
++ Willard, Ross
+
+---
 
 ### BibTeX Entries
 

@@ -9,6 +9,7 @@ James B. Nation plays trumpet in a jazz band, referees soccer games and runs fiv
 
 Then in 1995, while in Australia on a university work exchange, he solved a 25-year-old math problem called the finite height conjecture. “One night, I said, ‘I know how this has to work.’ I waited until the kids went to bed and I tried different numbers.  Finally, I tried seven, and it worked,” says Nation, who had been plugging away at this particular problem for 15 years. “It’s not about being a genius, it’s just working hard and consistently and not giving up.”
 
+---
 
 ## Bibliographic Data
 
@@ -21,6 +22,8 @@ Total Publications:	74
 Total Related Publications:	1  
 Total Citations:	318  
 
+
+---
 
 ## Nation's Collaborators
 
@@ -65,6 +68,7 @@ Total Citations:	318
 + Tschantz, Steven T.
 + Zenk, Eric Richard
 
+---
 
 ### BibTeX Entries
 
