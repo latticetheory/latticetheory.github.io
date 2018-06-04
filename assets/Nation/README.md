@@ -1194,7 +1194,7 @@ MRREVIEWER = {Ralph Freese},
 		
 @article {MR0434906,
     AUTHOR = {Freese, Ralph and Nation, J. B.},
-     TITLE = {{$3-3$} lattice inclusions imply congruence modularity},
+     TITLE = {3-3 lattice inclusions imply congruence modularity},
    JOURNAL = {Algebra Universalis},
   FJOURNAL = {Algebra Universalis},
     VOLUME = {7},
