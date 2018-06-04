@@ -16,36 +16,36 @@ As of May 2018, [MathSciNet](https://mathscinet-ams-org.colorado.idm.oclc.org/ma
 
 ### Coauthors
 
-Adams, Michael E.  
-Clark, David M.  
-Czédli, Gábor  
-Davey, Brian A.  
-Day, Alan  
-Dilworth, Robert Palmer  
-Grätzer, George  
-Herrmann, Christian  
-Huhn, András P.  
-Hyndman, Jennifer  
-Jackson, Marcel G.  
-Ježek, Jaroslav  
-Jipsen, Peter  
-Johnson, Charles R.  
-Jónsson, Bjarni  
-Kearnes, Keith A.  
-Lampe, William A.  
-Marković, Petar  
-Maróti, Miklós  
-McKenzie, Ralph N.  
-McNulty, George F.  
-Nation, James B.  
-Pickering, Douglas A.  
-Roddy, Micheale S.  
-Romanowska, Anna B.  
-Schmid, Jürg  
-Schmidt, E. Tamás  
-Slavík, Václav  
-Taylor, Walter  
-Valeriote, Matthew
+1. Adams, Michael E.  
+2. Clark, David M.  
+2. Czédli, Gábor  
+2. Davey, Brian A.  
+2. Day, Alan  
+2. Dilworth, Robert Palmer  
+2. Grätzer, George  
+2. Herrmann, Christian  
+2. Huhn, András P.  
+2. Hyndman, Jennifer  
+2. Jackson, Marcel G.  
+2. Ježek, Jaroslav  
+2. Jipsen, Peter  
+2. Johnson, Charles R.  
+2. Jónsson, Bjarni  
+2. Kearnes, Keith A.  
+2. Lampe, William A.  
+2. Marković, Petar  
+2. Maróti, Miklós  
+2. McKenzie, Ralph N.  
+2. McNulty, George F.  
+2. Nation, James B.  
+2. Pickering, Douglas A.  
+2. Roddy, Micheale S.  
+2. Romanowska, Anna B.  
+2. Schmid, Jürg  
+2. Schmidt, E. Tamás  
+2. Slavík, Václav  
+2. Taylor, Walter  
+2. Valeriote, Matthew
 
 
 ### BibTeX Entries

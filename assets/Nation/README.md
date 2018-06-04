@@ -35,7 +35,6 @@ Total Citations:	318
 + Day, Alan
 + Fossorier, Marc P. C.
 + Freese, Ralph S.
-+ Freese, Ralph (56)
 + Gaskill, Herbert S.
 + Grätzer, George
 + Herrmann, Christian
