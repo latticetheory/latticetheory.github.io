@@ -1,7 +1,13 @@
-# J.B. Nation
+## J.B. Nation
 
-<img src="Nation.jpg" alt="JB Nation" style="width: 600px"/>
+<img src="Nation.jpg" alt="JB Nation" style="width: 400px"/>
 
+---
+
+This is **not** J.B. Nation's official homepage. 
+The official page is at [math.hawaii.edu/~jb](http://www.math.hawaii.edu/~jb)
+
+---
 
 In 2010, Sheila Sarhangi wrote the following for [Honolulu Magazine](http://www.honolulumagazine.com/Honolulu-Magazine/February-2010/Our-Geniuses/) about JB:
 
@@ -11,7 +17,7 @@ Then in 1995, while in Australia on a university work exchange, he solved a 25-y
 
 ---
 
-## Bibliographic Data
+### Bibliographic Data
 
 As of May 2018, [MathSciNet](https://mathscinet-ams-org.colorado.idm.oclc.org/mathscinet/search/publications.html?pg1=INDI&s1=194830&sort=Newest&vfpref=html&r=1&extend=1) has reviewed 74 publications by JB Nation.  The file [Nation.bib](Nation.bib) contains the BibTeX data for all of these works.
 
@@ -25,7 +31,7 @@ As of May 2018, [MathSciNet](https://mathscinet-ams-org.colorado.idm.oclc.org/ma
 
 ---
 
-## Nation's Collaborators
+### Nation's Coauthors
 
 + Adams, Michael E.
 + Adaricheva, Kira V.

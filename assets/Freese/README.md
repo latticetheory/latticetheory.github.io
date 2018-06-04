@@ -1,9 +1,22 @@
 ## Ralph Freese
 
-<img src="Freese.jpeg" alt="Ralph Freese" style="width: 600px"/>
+<img src="Freese.jpeg" alt="Ralph Freese" style="width: 400px"/>
 
+---
+
+This is **not** Ralph Freese's official homepage. 
+The official page is at
+[math.hawaii.edu/~ralph](http://www.math.hawaii.edu/~ralph)
+
+Ralph Freese is Professor and Chair of the Mathematics
+Department at the University of Hawaii.  He is also the primary 
+architecht and developer of the [Universal Algebra Calculator at uacalc.org](http://uacalc.org).
 
 As of May 2018, [MathSciNet](https://mathscinet-ams-org.colorado.idm.oclc.org/mathscinet/search/publications.html?pg1=INDI&s1=194830&sort=Newest&vfpref=html&r=1&extend=1) has reviewed 64 publications by Ralph Freese.  The file [Freese.bib](Freese.bib) contains the BibTeX data for all of these works.
+
+---
+
+### Bibliographic Data
 
 |--- |--- |
 | **Total Publications** | 64 |
@@ -11,7 +24,7 @@ As of May 2018, [MathSciNet](https://mathscinet-ams-org.colorado.idm.oclc.org/ma
 | **Earliest Indexed Publication** | 1972 |
 | **MR Author ID** | 194830 |
 
-
+---
 
 ### Coauthors
 
@@ -46,6 +59,7 @@ As of May 2018, [MathSciNet](https://mathscinet-ams-org.colorado.idm.oclc.org/ma
 2. Taylor, Walter  
 2. Valeriote, Matthew
 
+---
 
 ### BibTeX Entries
 

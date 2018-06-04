@@ -1,8 +1,16 @@
 ## Bill Lampe
 
-<img src="Lampe.jpg" alt="Bill Lampe" style="width: 600px"/>
+<img src="Lampe.jpg" alt="Bill Lampe" style="width: 400px"/>
 
-## Bibliographic Data
+---
+
+This is **not** Bill Lampe's official homepage. 
+The official page is at
+[math.hawaii.edu/~bill](http://www.math.hawaii.edu/~bill)
+
+---
+
+### Bibliographic Data
 
 As of May 2018, 
 [MathSciNet](https://mathscinet-ams-org.colorado.idm.oclc.org/mathscinet/search/publications.html?pg1=INDI&s1=194830&sort=Newest&vfpref=html&r=1&extend=1) has reviewed 25 publications by Ralph Freese.  The file [Lampe.bib](Lampe.bib) contains the BibTeX data for all of these works.
