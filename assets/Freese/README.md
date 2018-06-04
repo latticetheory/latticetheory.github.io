@@ -13,6 +13,41 @@ As of May 2018, [MathSciNet](https://mathscinet-ams-org.colorado.idm.oclc.org/ma
 | **Total Citations** | 523 |
 
 
+
+### Coauthors
+
+Adams, Michael E.  
+Clark, David M.  
+Czédli, Gábor  
+Davey, Brian A.  
+Day, Alan  
+Dilworth, Robert Palmer  
+Grätzer, George  
+Herrmann, Christian  
+Huhn, András P.  
+Hyndman, Jennifer  
+Jackson, Marcel G.  
+Ježek, Jaroslav  
+Jipsen, Peter  
+Johnson, Charles R.  
+Jónsson, Bjarni  
+Kearnes, Keith A.  
+Lampe, William A.  
+Marković, Petar  
+Maróti, Miklós  
+McKenzie, Ralph N.  
+McNulty, George F.  
+Nation, James B.  
+Pickering, Douglas A.  
+Roddy, Micheale S.  
+Romanowska, Anna B.  
+Schmid, Jürg  
+Schmidt, E. Tamás  
+Slavík, Václav  
+Taylor, Walter  
+Valeriote, Matthew
+
+
 ### BibTeX Entries
 
 ````
